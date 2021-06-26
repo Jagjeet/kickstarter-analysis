@@ -37,3 +37,12 @@ Further analyis could include:
 2. Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
 
 * There is more variability with successful campaigns. This makes sense as successful campaigns can go vastly over their goals. Unsuccesful campaigns will be below their goals so there is a limited range for how badly they can fail.
+
+## References ##
+Some excel analyses made use of concepts and formulas found at the following links:
+
+* https://exceljet.net/formula/split-text-string-at-specific-character
+* https://www.ablebits.com/office-addins-blog/2016/06/01/split-text-string-excel/
+* https://exceljet.net/excel-functions/excel-right-function
+* https://exceljet.net/excel-functions/excel-countifs-function
+* https://exceljet.net/excel-functions/excel-filter-function
