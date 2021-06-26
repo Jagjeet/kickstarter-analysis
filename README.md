@@ -1,6 +1,6 @@
 # Kickstarter Analysis
 
-This project serves to analyze a database of 4,000 past Kickstarter projects to see any hidden trends and make some initial conclusions. For more details, see `KickstarterAnalysis.xlsx`.
+This project serves to analyze a database of 4,000 past Kickstarter projects to see any hidden trends and make some initial conclusions. For more details, see `KickstarterAnalysis.xlsx` or on Google Drive the file can be found [here](https://drive.google.com/file/d/1zmyjv0NgGzRitP0EHrobLngDzjHfhOe4/view?usp=sharing)
 
 ## An Initial Look
 
